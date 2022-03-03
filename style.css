@@ -7,6 +7,17 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.keywords {
+    color:#cccccc;
+    font-size:1px;
+}
+
+.keywords2 {
+    
+    font-size:1px;
+    color:#F3976C;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
